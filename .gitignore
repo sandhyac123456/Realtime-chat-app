@@ -11,7 +11,7 @@ node_modules/
 backend/node_modules/
 frontend/node_modules/
 
-build/
+build/git commit -m "Initial commit"
 *.log
 dist
 dist-ssr
