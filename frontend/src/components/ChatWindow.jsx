@@ -33,8 +33,7 @@ export default function ChatWindow() {
           Select a conversation
         </p>
         <p className="text-xs text-slate-500 mt-1.5 max-w-xs leading-relaxed">
-          Left sidebar se kisi existing chat ya user par click karke messages
-          shuru karo.
+          Start Chat with anyone in your friend list!
         </p>
       </main>
     );
