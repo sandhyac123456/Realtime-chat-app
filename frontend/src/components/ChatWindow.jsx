@@ -125,7 +125,7 @@ export default function ChatWindow() {
                 No messages yet
               </p>
               <p className="text-xs text-slate-400 mt-1">
-                {partnerName} ko pehla message bhejo!
+                   Start Chat with {partnerName}!
               </p>
             </div>
           </div>
